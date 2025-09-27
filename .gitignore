@@ -1,5 +1,5 @@
 # SRO Research Files - Keep Private
-CHECKLIST.md
+# CHECKLIST.md  # Uncomment if you want to keep this file private
 
 # Python
 __pycache__/
